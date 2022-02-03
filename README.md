@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yash-sketch . My name is Yash Kumar Sain. I am a Fourth year Undergrad at IIT Kharagpur.
+- 👋 Hi, I’m @yashsain . My name is Yash Kumar Sain. I am a Fourth year Undergrad at IIT Kharagpur.
 - 👀 I’m interested in SWE, ML, Android Studio
 - 🌱 I’m currently learning Android Studio and RDBMS
 - 💞️ I’m looking to collaborate on similar projects.
